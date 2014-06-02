@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4BB6D29B-4364-4EE4-81FE-2DA0B7CB471B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloWorld</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9F45F74D-082D-41F2-828D-72F681EA1B62</key>
+		<string>https://github.com/johndangerstorey/phonegap-angular-tutorial.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tutorialApp/platforms/ios/HelloWorld.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9F45F74D-082D-41F2-828D-72F681EA1B62</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/johndangerstorey/phonegap-angular-tutorial.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9F45F74D-082D-41F2-828D-72F681EA1B62</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9F45F74D-082D-41F2-828D-72F681EA1B62</string>
+			<key>IDESourceControlWCCName</key>
+			<string>phonegap-angular-tutorial</string>
+		</dict>
+	</array>
+</dict>
+</plist>
